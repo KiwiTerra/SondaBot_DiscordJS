@@ -4,15 +4,13 @@
 
 **JDA Version :** [Here](https://github.com/KiwiTerra/SondaBot_JDA)
 
-## Libraries & Classes
+## Libraries
 
-* [JDA](https://github.com/DV8FromTheWorld/JDA)
-* [Apache Commons Configuration](https://github.com/apache/commons-configuration)
-* [Apache Commons Beanutils](https://github.com/apache/commons-beanutils)
-* [Apache Commons IO](https://github.com/apache/commons-io)
-* [Apache Logging Log4J2 (core)](https://github.com/apache/logging-log4j2)
-* [EmojiUtils from simple-emoji-4j](https://github.com/liheyuan/simple-emoji-4j/)
-
+* [discord.js](https://www.npmjs.com/package/discord.js)
+* [eslint](https://www.npmjs.com/package/eslint)
+* [pm2](https://www.npmjs.com/package/pm2)
+* [simple-youtube-api](https://www.npmjs.com/package/simple-youtube-api)
+* [winston](https://www.npmjs.com/package/winston)
 
 ## License
 
