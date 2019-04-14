@@ -1,0 +1,7 @@
+{
+	"prefix": "prefix",
+    "token": "token",
+    "guildID": "id",
+    "pollChannelID": "id",
+    "pollVerifyChannelID": "id"
+}
